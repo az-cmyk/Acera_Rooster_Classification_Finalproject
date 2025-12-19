@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "850050133746",
+    "firebase_url": "https://flutter-rooster-classes-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "flutter-rooster-classes",
+    "storage_bucket": "flutter-rooster-classes.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:850050133746:android:a987b332d850ea3e82aa6b",
+        "android_client_info": {
+          "package_name": "com.example.roostify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfH09XyoU4e3hNpq50JIb_AV4_-l9EhPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
